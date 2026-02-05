@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Expert Car Workshop Chakswari",
+  "description": "Premium Car AC Mechanic and Electrician services in Chakswari, Hamidabad Colony, and Mirpur. Specialized in car diagnosis, wiring, and cooling systems.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
